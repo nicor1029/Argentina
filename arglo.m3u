@@ -165,7 +165,7 @@ https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 http://204.199.3.2/.m3u8
 #EXTINF:-1 tvg-id="RetroCartoon.ar@SD" group-title="Animation" ,RetroCartoon
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroMagico.ar@SD" group-title="Entertaiment",Retro Mágico
+#EXTINF:-1 tvg-id="RetroMagico.ar@SD" group-title="Animation",Retro Mágico
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
 #EXTINF:-1 tvg-id="RTN.ar@SD" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="Undefined",RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
