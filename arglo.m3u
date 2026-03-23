@@ -127,6 +127,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7305cd9cf1cf17bd1716a5574b0ec6a.webp" group-title="General",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 group-title="Animation", EnerGeek
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Hispanic America (720p)
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="GenTV.ar@SD" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Entertainment",Gen TV (720p)
