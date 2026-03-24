@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="24/7", Dragon Ball Z
-https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_oficial.flv
-#EXTINF:-1 group-title="24/7", Furutama 24/7
-https://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv
 #EXTINF:-1 group-title="24/7", Simpson 24/7
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes (480p) [Not 24/7]
