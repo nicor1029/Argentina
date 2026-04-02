@@ -196,7 +196,7 @@ http://204.199.3.2/.m3u8
 #EXTINF:-1 tvg-id="RetroCartoon.ar@SD" group-title="Animation" ,RetroCartoon
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMagico.ar@SD" group-title="Animation",Retro Mágico
-https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment", Retrox tv
 https://video20.klm99.com:3580/live/retroxlive.m3u8
 #EXTINF:-1 tvg-id="RTN.ar@SD" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="Undefined",RTN (Neuquén)
