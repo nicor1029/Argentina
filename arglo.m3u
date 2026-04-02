@@ -207,6 +207,8 @@ https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel
 http://45.5.151.147:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="News", T5 Satelital
+https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 #EXTINF:-1 tvg-id="Telecinco.ar@SD" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Entertainment",TeleCinco Trelew
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 group-title="Entertainment", TeleClasica
