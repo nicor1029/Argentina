@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 VER
-http://181.78.73.64:8000/play/a1st/index.m3u8
 #EXTINF:-1 group-title="247", Simpson 247
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
@@ -126,8 +124,6 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar@SD" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="General",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 group-title="Animation", Clan
-https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr_eu.m3u8
 #EXTINF:-1 group-title="Music", CM
 https://g2.mc-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Music",Cumbia Mix
