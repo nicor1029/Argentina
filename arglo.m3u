@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, ver
+https://clientestv.bachistreaming.com:3370/hybrid/play.m3u8
 #EXTINF:-1 group-title="247", Simpson 247
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 group-title="247", Simpson 247 2
