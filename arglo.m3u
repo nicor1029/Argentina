@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="arg", AMERICA
+https://loadbalancer25.cdn.rcs.net.ar/mnp/qm88dp4x00000002jpgb20pm1djqsool/output.mpd
+#EXTINF:-1 group-title="arg", TELEFE
+https://loadbalancer25.cdn.rcs.net.ar/mnp/w04bd000000041ym0bj4pndelxnk6u9f/output.mpd
+#EXTINF:-1 group-title="arg", TV PUBLICA
+https://loadbalancer25.cdn.rcs.net.ar/mnp/f000000051qk6d7gpw2eb0zzcghu60nv/output.mpd
+#EXTINF:-1 group-title="arg", EL TRECE
+https://loadbalancer25.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:-1 group-title="arg", el nueve
+https://loadbalancer25.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:-1 group-title="arg", TN
+https://loadbalancer25.cdn.rcs.net.ar/mnp/z3yr000000792oqkpjzgz53bii53nrik/output.mpd
+#EXTINF:-1 group-title="arg", A24
+https://loadbalancer25.cdn.rcs.net.ar/mnp/f4i30000001178tfvf222zer6o7mwgdd/output.mpd
+#EXTINF:-1 group-title="arg", C5N
+https://loadbalancer25.cdn.rcs.net.ar/mnp/c5n/output.mpd
+#EXTINF:-1 group-title="arg", CRONICA
+https://loadbalancer25.cdn.rcs.net.ar/mnp/oce000000095ng0pa36h7krinjbeki8f/output.mpd
+#EXTINF:-1 group-title="arg", LA NACION MAS
+https://loadbalancer25.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+#EXTINF:-1 group-title="arg", tyc sports
+https://loadbalancer25.cdn.rcs.net.ar/mnp/r8gkbh16l1ofx800000052q82qbiipia/output.mpd
 #EXTINF:-1 group-title="247", Simpson 247
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
