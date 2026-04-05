@@ -263,8 +263,10 @@ https://d3s7x6kmqcnb6b.cloudfront.net/hls/6ZRAJ3Y/F68B0BD81A8D/m.m3u8
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?
 #EXTINF:-1 group-title="Ciencias", Xphere One
 https://stmv2.voxtvhd.com.br/xphereone/xphereone/playlist.m3u8
-#EXTINF:-1 group-title="Ciencias", Xphere Sciece
+#EXTINF:-1 group-title="Ciencias", Xphere Science
 https://stmv2.voxtvhd.com.br/xpherescience/xpherescience/playlist.m3u8
+#EXTINF:-1 group-title="Ciencias", Xphere Vita
+https://stmv4.voxtvhd.com.br/elbuenvivir/elbuenvivir/playlist.m3u8
 #EXTINF:-1 group-title="Ciencias", Xphere Wild
 https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" http-referrer="https://xtrematv.com/?p=1434" group-title="Cine",Xtrema Accion
