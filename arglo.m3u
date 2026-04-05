@@ -130,7 +130,7 @@ https://g2.mc-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_a
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 group-title="Animation", Clasico animados
 https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
-##EXTINF:-1 tvg-id="DanceTV.ar@SD" tvg-logo="https://i.imgur.com/UKMR625.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Music",Dance TV
+#EXTINF:-1 tvg-id="DanceTV.ar@SD" tvg-logo="https://i.imgur.com/UKMR625.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Music",Dance TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
