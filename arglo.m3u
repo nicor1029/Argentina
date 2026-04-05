@@ -261,6 +261,8 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/6ZRAJ3Y/F68B0BD81A8D/m.m3u8
 #EXTINF:-1 group-title="Music", XITE metal & rock
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?
+#EXTINF:-1 group-title="Ciencias", Xphere Aventure
+https://stmv3.voxtvhd.com.br/aventurastv/aventurastv/playlist.m3u8
 #EXTINF:-1 group-title="Ciencias", Xphere Cosmos
 https://stmv2.voxtvhd.com.br/xpherecosmos/xpherecosmos/playlist.m3u8
 #EXTINF:-1 group-title="Ciencias", Xphere History
