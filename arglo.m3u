@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, canal 5
+https://peaky.techcoder40.workers.dev/6189.m3u8
 #EXTINF:-1 group-title="24/7", Simpson 24/7
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 group-title="24/7", Simpson 24/7 2
