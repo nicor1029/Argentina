@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, telefe
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/telefe.playlist.m3u8
+#EXTINF:-1, star channel
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-68.playlist.m3u8
 #EXTINF:-1 group-title="24/7", Simpson 24/7
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 group-title="24/7", Simpson 24/7 2
