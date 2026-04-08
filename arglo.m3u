@@ -54,43 +54,33 @@ http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-46.playl
 #EXTINF:-1 tvg-id="" group-title="-",Cartoonito
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-30.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",Nickelodeon
-http://181.209.125.236:10000/play/a007/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-33.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",Pakapaka
-http://181.209.125.236:10000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Quiero Musica
-http://181.209.125.236:10000/play/a01l/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-36.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",Sony HD
-http://181.209.125.236:10000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Sony Movies HD
-http://181.209.125.236:10000/play/a00q/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-70.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",Space HD
-http://181.209.125.236:10000/play/a01t/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-69.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",Star Channel HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-68.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",Studio Universal
-http://181.209.125.236:10000/play/a015/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-67.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",TCM
-http://181.209.125.236:10000/play/a013/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-79.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",TN HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/tn.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",TNT HD
-http://181.209.125.236:10000/play/a034/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-66.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",TNT Novelas HD
-http://181.209.125.236:10000/play/a037/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-65.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",TNT Series HD
-http://181.209.125.236:10000/play/a035/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-64.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",TV Publica HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/tvpublica.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Telefe HD
+#EXTINF:-1 tvg-id="Telefe.ar" group-title="-",Telefe HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/telefe.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",The History Channel HD
-http://181.209.125.236:10000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",USA Network
-http://181.209.125.236:10000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",Universal HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-75.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Volver
-http://181.209.125.236:10000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",Warner Channel HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-73.playlist.m3u8
 #EXTINF:-1 group-title="24/7", Simpson 24/7
