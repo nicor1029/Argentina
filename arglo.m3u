@@ -19,14 +19,8 @@ http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/ciudadmagazine
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-44.playlist.m3u8
 #EXTINF:-1 group-title="-",Discovery H&H HD
 http://181.209.125.236:10000/play/a038/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Science
-http://181.209.125.236:10000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Theater HD
-http://181.209.125.236:10000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Turbo
 http://181.209.125.236:10000/play/a011/index.m3u8
-#EXTINF:-1 group-title="-",Discovery World HD
-http://181.209.125.236:10000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="-",Disney Channel HD
 http://181.209.125.236:10000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="-",Disney Junior
