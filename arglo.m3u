@@ -31,21 +31,21 @@ http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-16.playl
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/eltrece.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",FX HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-78.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",HBO
+#EXTINF:-1 tvg-id="HBO.ar" group-title="-",HBO
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-102.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",HBO 2
+#EXTINF:-1 tvg-id="HBO2.ar" group-title="-",HBO 2
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-105.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.ar" group-title="-",HBO Family
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-101.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",HBO Mundi
+#EXTINF:-1 tvg-id="HBOMundi.ar" group-title="-",HBO Mundi
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-110.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",HBO Plus
+#EXTINF:-1 tvg-id="HBOPlus.ar" group-title="-",HBO Plus
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-109.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",HBO Pop
+#EXTINF:-1 tvg-id="HBOPop.ar" group-title="-",HBO Pop
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-108.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",HBO Signature
+#EXTINF:-1 tvg-id="HBOSignature.ar" group-title="-",HBO Signature
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-107.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXtreme.ar" group-title="-",HBO Xtreme
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-103.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",History 2
 http://181.209.125.236:10000/play/a01h/index.m3u8
