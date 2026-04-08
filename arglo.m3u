@@ -32,19 +32,21 @@ http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/eltrece.playli
 #EXTINF:-1 group-title="-",FX HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-78.playlist.m3u8
 #EXTINF:-1 group-title="-",HBO
-http://181.209.125.236:10000/play/a02e/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-102.playlist.m3u8
 #EXTINF:-1 group-title="-",HBO 2
 http://181.209.125.236:10000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="-",HBO Family
-http://181.209.125.236:10000/play/a02h/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-101.playlist.m3u8
 #EXTINF:-1 group-title="-",HBO Mundi
-http://181.209.125.236:10000/play/a01a/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-110.playlist.m3u8
 #EXTINF:-1 group-title="-",HBO Plus
-http://181.209.125.236:10000/play/a02f/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-109.playlist.m3u8
+#EXTINF:-1 group-title="-",HBO Pop
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-108.playlist.m3u8
 #EXTINF:-1 group-title="-",HBO Signature
-http://181.209.125.236:10000/play/a01c/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-107.playlist.m3u8
 #EXTINF:-1 group-title="-",HBO Xtreme
-http://181.209.125.236:10000/play/a01b/index.m3u8
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-103.playlist.m3u8
 #EXTINF:-1 group-title="-",History 2
 http://181.209.125.236:10000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="-",Metro
