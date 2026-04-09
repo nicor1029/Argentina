@@ -5,7 +5,7 @@ http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-71.playl
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-76.playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.ar" group-title="-",AXN HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-77.playlist.m3u8
-#EXTINF:-1 tvg-id="cartoonito.ar" group-title="-",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.ar" group-title="-",Cartoonito
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-30.playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.ar" group-title="-",Cartoon Network HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-31.playlist.m3u8
@@ -91,7 +91,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 group-title="General", 13 Max TV 
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
+#EXTINF:-1 tvg-id="24/7CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="News",A24
 https://g2.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8?sense=true
