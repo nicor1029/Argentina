@@ -5,31 +5,33 @@ http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-71.playl
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-76.playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.ar" group-title="-",AXN HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-77.playlist.m3u8
+#EXTINF:-1 tvg-id="cartoonito.ar" group-title="-",Cartoonito
+http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-30.playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.ar" group-title="-",Cartoon Network HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-31.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Cine.AR
+#EXTINF:-1 tvg-id="CineAr.ar" group-title="-",Cine.AR
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-20.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Cinecanal HD
+#EXTINF:-1 tvg-id="Cinecanal.ar" group-title="-",Cinecanal HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-62.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.ar" group-title="-",Cinemax
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-61.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",ciudad magazine
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="-",ciudad magazine
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/ciudadmagazine.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery.ar" group-title="-",Discovery Channel HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-44.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Discovery H&H HD
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" group-title="-",Discovery H&H HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-43.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo" group-title="-",Discovery Turbo
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-99.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Disney Channel HD
+#EXTINF:-1 tvg-id="DisneyChannel.ar" group-title="-",Disney Channel HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-32.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.ar" group-title="-",Disney Junior
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-35.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",el nueve HD
+#EXTINF:-1 tvg-id="ELNueve.ar" group-title="-",el nueve HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-16.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",el trece HD
+#EXTINF:-1 tvg-id="ELTrece.ar" group-title="-",el trece HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/eltrece.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",FX HD
+#EXTINF:-1 tvg-id="FX.ar" group-title="-",FX HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-78.playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.ar" group-title="-",HBO
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-102.playlist.m3u8
@@ -47,41 +49,39 @@ http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-108.play
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-107.playlist.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.ar" group-title="-",HBO Xtreme
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-103.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Metro
+#EXTINF:-1 tvg-id="Metro.ar" group-title="-",Metro
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-53.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Nat Geo HD
+#EXTINF:-1 tvg-id="NationalGeographic.ar" group-title="-",Nat Geo HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-46.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Cartoonito
-http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-30.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Nickelodeon
+#EXTINF:-1 tvg-id="Nick2.ar" group-title="-",Nickelodeon
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-33.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Pakapaka
+#EXTINF:-1 tvg-id="Pakapaka.ar" group-title="-",Pakapaka
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-36.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Sony HD
+#EXTINF:-1 tvg-id="Sony.ar" group-title="-",Sony HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-70.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Space HD
+#EXTINF:-1 tvg-id="Space.ar" group-title="-",Space HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-69.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Star Channel HD
+#EXTINF:-1 tvg-id="StarChannel.ar" group-title="-",Star Channel HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-68.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversal.ar" group-title="-",Studio Universal
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-67.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",TCM
+#EXTINF:-1 tvg-id="TCM.ar" group-title="-",TCM
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-79.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",TN HD
+#EXTINF:-1 tvg-id="TN.ar" group-title="-",TN HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/tn.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",TNT HD
+#EXTINF:-1 tvg-id="TNT.ar" group-title="-",TNT HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-66.playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="-",TNT Novelas HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-65.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",TNT Series HD
+#EXTINF:-1 tvg-id="TNTSeries.ar" group-title="-",TNT Series HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-64.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",TV Publica HD
+#EXTINF:-1 tvg-id="TVPublica.ar" group-title="-",TV Publica HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/tvpublica.playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" group-title="-",Telefe HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/telefe.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Universal HD
+#EXTINF:-1 tvg-id="UniversalTV.ar" group-title="-",Universal HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-75.playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="-",Warner Channel HD
+#EXTINF:-1 tvg-id="WarnerChannel.ar" group-title="-",Warner Channel HD
 http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-73.playlist.m3u8
 #EXTINF:-1 group-title="24/7", Simpson 24/7
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
