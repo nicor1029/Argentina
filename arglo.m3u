@@ -139,6 +139,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 group-title="News", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Cine", El Palomar
+https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
 #EXTINF:-1 group-title="Animation", EnerGeek FanPop
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 group-title="Animation", EnerGeek Retro
