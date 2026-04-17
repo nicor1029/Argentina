@@ -171,7 +171,7 @@ https://panel.host-live.com:19360/8118/8118.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mbanetworks.tv/wp-content/uploads/2025/09/FAST_CHANNELS_FreeTVBanda_logo_2000x2000.webp" group-title="free tv", FREE TV Banda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mbanetworks.tv/wp-content/uploads/2025/09/FAST_CHANNELS_FreeTVClasica_logo_2000x2000.webp" group-title="free tv", FREE TV clásico
+#EXTINF:-1 tvg-logo="51e560600b65af19f305f491df5d04ac.webp" group-title="free tv", FREE TV clásico
 https://amg01024-amg01024c29-freetv-us-6970.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvclasicoeurope-freetvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mbanetworks.tv/wp-content/uploads/2025/09/FAST_CHANNELS_FreeTVDrama_logo_2000x2000.webp" group-title="free tv", FREE TV drama
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
