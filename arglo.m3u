@@ -167,7 +167,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", Five TV Digital
 https://panel.host-live.com:19360/8118/8118.m3u8
-#EXTINF:-1 group-title="free tv", FREE TV acción 
+#EXTINF:-1 tvg-logo="https://mbanetworks.tv/wp-content/uploads/2025/09/FAST_CHANNELS_FreeTVAccion_logo_2000x2000.webp" group-title="free tv", FREE TV acción 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 #EXTINF:-1 group-title="free tv", FREE TV Banda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
@@ -175,7 +175,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playl
 https://amg01024-amg01024c29-freetv-us-6970.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvclasicoeurope-freetvus/playlist.m3u8
 #EXTINF:-1 group-title="free tv", FREE TV drama
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
-#EXTINF:-1 group-title="free tv", FREE TV familia
+#EXTINF:-1 tvg-logo="https://mbanetworks.tv/wp-content/uploads/2025/09/FAST_CHANNELS_FreeTVFamilia_logo_2000x2000.webp" group-title="free tv", FREE TV familia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
 #EXTINF:-1 group-title="free tv", FREE TV hits
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
