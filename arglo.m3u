@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="free tv", FREE TV acción 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 #EXTINF:-1, HBO
 https://latam-cache-sv2-cdn.latamlive.net/HBO_HD_AR_ENC_LIVE/index.m3u8
 #EXTINF:0,Bein Sports 
