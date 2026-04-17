@@ -5,8 +5,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/pl
 https://latam-cache-sv2-cdn.latamlive.net/HBO_HD_AR_ENC_LIVE/index.m3u8
 #EXTINF:0,Bein Sports 
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1, TRECE
-https://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 #EXTINF:-1, SNT
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7", Simpson 24/7
