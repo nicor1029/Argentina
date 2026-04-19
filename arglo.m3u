@@ -3,10 +3,18 @@
 https://latam-cache-sv2-cdn.latamlive.net/HBO_HD_AR_ENC_LIVE/index.m3u8
 #EXTINF:-1, HBO 2
 https://latam-cache-sv2-cdn.latamlive.net/HBO2_AR_ENC_LIVE/index.m3u8
+#EXTINF:-1, HBO Extreme
+https://latam-cache-sv2-cdn.latamlive.net/HBO_EXTREME_HD_AR_ENC_LIVE/index.m3u8
 #EXTINF:-1, HBO Family
 https://latam-cache-sv2-cdn.latamlive.net/HBO_FAMILY_HD_AR_ENC_LIVE/index.m3u8
+#EXTINF:-1, HBO Mundi
+https://latam-cache-sv2-cdn.latamlive.net/HBO_MUNDI_HD_AR_ENC_LIVE/index.m3u8
 #EXTINF:-1, HBO PLUS
 https://latam-cache-sv2-cdn.latamlive.net/HBO_PLUS_HD_AR_ENC_LIVE/index.m3u8
+#EXTINF:-1, HBO Pop
+https://latam-cache-sv2-cdn.latamlive.net/HBO_POP_AR_HD_ENC_LIVE/index.m3u8
+#EXTINF:-1, HBO Signature
+https://latam-cache-sv2-cdn.latamlive.net/HBO_SIGNATURE_AR_HD_ENC_LIVE/index.m3u8
 #EXTINF:0,Bein Sports 
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1, SNT
