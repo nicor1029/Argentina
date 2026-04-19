@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1, CANAL 10 COSTA RICA
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+#EXTINF:-1, BEST CLASICOS TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+#EXTINF:-1, RADIO TURRIALBA TV
+https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8
+#EXTINF:-1, 360RFTVCR
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+#EXTINF:-1, CARTAGO MEDIOS TV
+https://acceso.mediosdecostarica.com:3511/hybrid/play.m3u8
+#EXTINF:-1, PUNTO 9 TV
+https://acceso.mediosdecostarica.com:3569/hybrid/play.m3u8
+#EXTINF:-1, SAN VITO TELEVISION
+https://acceso.mediosdecostarica.com:3422/hybrid/play.m3u8
+#EXTINF:-1, SARAPIQUI STREAMING TELEVISION
+https://acceso.mediosdecostarica.com:3134/live/sstv2372live.m3u8
+#EXTINF:-1, RADIO SON TV
+https://acceso.mediosdecostarica.com:3812/hybrid/play.m3u8
 #EXTINF:-1, HBO
 https://latam-cache-sv2-cdn.latamlive.net/HBO_HD_AR_ENC_LIVE/index.m3u8
 #EXTINF:-1, HBO 2
