@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HBO
-https://latam-cache-sv2-cdn.latamlive.net/HBO_HD_AR_ENC_LIVE/index.m3u8
-#EXTINF:-1, HBO 2
-https://latam-cache-sv2-cdn.latamlive.net/HBO2_AR_ENC_LIVE/index.m3u8
-#EXTINF:-1, HBO Xtreme
-https://latam-cache-sv2-cdn.latamlive.net/HBO_XTREME_HD_AR_ENC_LIVE/index.m3u8
-#EXTINF:-1, HBO Family
-https://latam-cache-sv2-cdn.latamlive.net/HBO_FAMILY_HD_AR_ENC_LIVE/index.m3u8
-#EXTINF:-1, HBO Mundi
-https://latam-cache-sv2-cdn.latamlive.net/HBO_MUNDI_HD_AR_ENC_LIVE/index.m3u8
-#EXTINF:-1, HBO PLUS
-https://latam-cache-sv2-cdn.latamlive.net/HBO_PLUS_HD_AR_ENC_LIVE/index.m3u8
-#EXTINF:-1, HBO Pop
-https://latam-cache-sv2-cdn.latamlive.net/HBO_POP_AR_HD_ENC_LIVE/index.m3u8
-#EXTINF:-1, HBO Signature
-https://latam-cache-sv2-cdn.latamlive.net/HBO_SIGNATURE_AR_HD_ENC_LIVE/index.m3u8
 #EXTINF:0,Bein Sports 
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1, SNT
@@ -197,6 +181,22 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/elgaragetv.png" group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 group-title="HBO", HBO
+https://latam-cache-sv2-cdn.latamlive.net/HBO_HD_AR_ENC_LIVE/index.m3u8
+#EXTINF:-1 group-title="HBO", HBO 2
+https://latam-cache-sv2-cdn.latamlive.net/HBO2_AR_ENC_LIVE/index.m3u8
+#EXTINF:-1 group-title="HBO", HBO Xtreme
+https://latam-cache-sv2-cdn.latamlive.net/HBO_XTREME_HD_AR_ENC_LIVE/index.m3u8
+#EXTINF:-1 group-title="HBO", HBO Family
+https://latam-cache-sv2-cdn.latamlive.net/HBO_FAMILY_HD_AR_ENC_LIVE/index.m3u8
+#EXTINF:-1 group-title="HBO", HBO Mundi
+https://latam-cache-sv2-cdn.latamlive.net/HBO_MUNDI_HD_AR_ENC_LIVE/index.m3u8
+#EXTINF:-1 group-title="HBO", HBO PLUS
+https://latam-cache-sv2-cdn.latamlive.net/HBO_PLUS_HD_AR_ENC_LIVE/index.m3u8
+#EXTINF:-1 group-title="HBO", HBO Pop
+https://latam-cache-sv2-cdn.latamlive.net/HBO_POP_AR_HD_ENC_LIVE/index.m3u8
+#EXTINF:-1 group-title="HBO", HBO Signature
+https://latam-cache-sv2-cdn.latamlive.net/HBO_SIGNATURE_AR_HD_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="GenTV.ar@SD" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Cine",Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Animation", Kanade
