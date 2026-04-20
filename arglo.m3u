@@ -181,7 +181,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/elgaragetv.png" group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 group-title=“Cine", Kairo
+#EXTINF:-1 group-title=“Cine", Kairos TV
 https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
 #EXTINF:-1 tvg-id="GenTV.ar@SD" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Cine",Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
@@ -195,6 +195,8 @@ https://cloud.tvomix.com/KPOPMIX/index.m3u8
 https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 group-title="General", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Cine", Lamil35 TV
+https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music", Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-id="LitusTV.ar@SD" tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="General",Litus TV
