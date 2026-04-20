@@ -211,6 +211,8 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://stmvideo6.livecastv.com/milennio/milennio/playlist.m3u8
 #EXTINF:-1 tvg-id="MisionesCuatro.ar@SD" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="General",Misiones Cuatro
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+#EXTINF:-1 group-title="Cine", Multivisión
+https://ds.tvabierta.net/memfs/00f5c847-7fd0-4486-830d-dc92a8d13a72.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar@SD" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="News",Multivision Federal
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-id="NEOTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Cine",NEO TV
