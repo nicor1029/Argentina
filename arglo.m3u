@@ -7,6 +7,8 @@ https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-logo="" group-title="24/7", Simpson 24/7 2
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7", Simpson 24/7 3
+http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/online-24-7.playlist.m3u8
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/13maxhd.png" group-title="General", 13 Max TV 
