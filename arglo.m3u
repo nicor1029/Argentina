@@ -147,7 +147,7 @@ https://envivo.cncity.live/hls/envivo.m3u8
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Music",Cumbia Mix
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="Animation", Disney Channel
+#EXTINF:-1, tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/disneychannel.png" group-title="Animation", Disney Channel
 http://201.217.246.42:44310/Live/345be2d828f668ebd831419b28fff674/local-32.playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
