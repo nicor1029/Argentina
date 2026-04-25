@@ -141,7 +141,7 @@ https://telco.apk-media.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar@SD" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="General",Ciudad Magazine
 http://201.217.246.42:44310/Live/345be2d828f668ebd831419b28fff674/ciudadmagazine.playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/c/c9/Era_city_logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20150221205425&path-prefix=es“ group-title="Animation", CN CITY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/c/c9/Era_city_logo.jpg“ group-title="Animation", CN CITY
 https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 group-title="News", CNN
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
