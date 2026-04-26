@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, pasiones
+http://nor2live.win:80/livehttpplay?channel_id=23239
 #EXTINF:-1, FOX_2_San_Francisco_CA_(KTVU)_(720p)
 https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
 #EXTINF:-1, FOX_13_Seattle_WA_(KCPQ)_(720p)
