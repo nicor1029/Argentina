@@ -237,6 +237,8 @@ https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 https://ds.tvabierta.net/memfs/00f5c847-7fd0-4486-830d-dc92a8d13a72.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="News",Multivision Federal
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine", MultiVox Cine
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="NEOTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Cine",NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="General",NET TV
