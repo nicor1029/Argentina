@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, ESPN PREMIUM
-http://104.250.128.34/livehttpplay?channel_id=23523
+http://38.41.8.1:8000/play/a0t7
 #EXTINF:-1, pasiones
 http://nor2live.win:80/livehttpplay?channel_id=23239
 #EXTINF:-1, FOX_2_San_Francisco_CA_(KTVU)_(720p)
