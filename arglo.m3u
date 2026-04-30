@@ -3,10 +3,6 @@
 http://38.41.8.1:8000/play/a0t7
 #EXTINF:-1, pasiones
 http://nor2live.win:80/livehttpplay?channel_id=23239
-#EXTINF:-1, FOX_2_San_Francisco_CA_(KTVU)_(720p)
-https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
-#EXTINF:-1, FOX_13_Seattle_WA_(KCPQ)_(720p)
-https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
 #EXTINF:0,Bein Sports 
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1, SNT
@@ -128,7 +124,7 @@ https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", CARAS TV
 https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Animation", Cartoon Network
-http://nor2live.win:80/livehttpplay?channel_id=16553
+http://nor1live.win:80/livehttpplay?channel_id=23045
 #EXTINF:-1 tvg-logo="" group-title="Animation", Cartoon Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="CatamarcaTV.ar@SD" tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="News",Catamarca TV
@@ -255,6 +251,8 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="General",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1 group-title="Animation", Nick Jr
+http://nor2live.win:80/livehttpplay?channel_id=16553
 #EXTINF:-1 tvg-id="PowerMaxRadioTV.ar@SD" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Music",Power Max Radio TV
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music", Quantica TV
