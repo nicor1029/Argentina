@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, hermanos
-https://m.youtube.com/watch?v=uii8QEy4-GQ&pp=uAQw
 #EXTINF:-1, TNT
 http://201.217.246.42:44310/Live/d0c913f7fb4a704a12fc8671bb068abc/local-66.playlist.m3u8
 #EXTINF:-1, ESPN PREMIUM
@@ -293,8 +291,6 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 http://201.217.246.42:44310/Live/345be2d828f668ebd831419b28fff674/tvpublica.playlist.m3u8
 #EXTINF:-1 tvg-id="TVSolidaria.ar@SD" tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="Undefined",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 tvg-id="TVUniversidad.ar@SD" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Educación",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar@SD" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religioso",Unife TV
@@ -321,14 +317,10 @@ https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stmv3.voxtvhd.com.br/aventurastv/aventurastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ciencias", Xphere Cosmos
 https://stmv2.voxtvhd.com.br/xpherecosmos/xpherecosmos/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ciencias", Xphere History
-https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ciencias", Xphere One
 https://stmv2.voxtvhd.com.br/xphereone/xphereone/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ciencias", Xphere Science
 https://stmv2.voxtvhd.com.br/xpherescience/xpherescience/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ciencias", Xphere Vita
-https://stmv4.voxtvhd.com.br/elbuenvivir/elbuenvivir/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ciencias", Xphere Wild
 https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" http-referrer="https://xtrematv.com/?p=1434" group-title="Cine",Xtrema Accion
