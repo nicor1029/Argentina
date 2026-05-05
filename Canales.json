@@ -1,0 +1,66 @@
+{
+  "version": "1.0",
+  "ultima_actualizacion": "2026-05-05",
+  "canales": [
+    {
+      "id": 1,
+      "nombre": "TV Pública",
+      "provincia": "Nacional",
+      "grupo": "Nacionales",
+      "logo": "https://logo.clearbit.com/tvpublica.com.ar",
+      "stream": "https://live.tvpublica.com.ar/live/tvpublica.m3u8",
+      "tipo": "directo",
+      "tvg_id": "TVPublica.ar"
+    },
+    {
+      "id": 2,
+      "nombre": "Canal 7 Chubut",
+      "provincia": "Chubut",
+      "grupo": "Patagonia",
+      "logo": "https://logo.clearbit.com/canal7chubut.com.ar",
+      "stream": "https://stream.canal7chubut.com.ar/live/index.m3u8",
+      "tipo": "directo",
+      "tvg_id": "Canal7Chubut.ar"
+    },
+    {
+      "id": 3,
+      "nombre": "Encuentro",
+      "provincia": "Nacional",
+      "grupo": "Educativos",
+      "logo": "https://logo.clearbit.com/encuentro.gob.ar",
+      "stream": "https://live.encuentro.gob.ar/live/encuentro.m3u8",
+      "tipo": "directo",
+      "tvg_id": "Encuentro.ar"
+    }
+    {
+      "id": 4,
+      "nombre": "bein sport",
+      "provincia": "Nacional",
+      "grupo": "Nacionales",
+      "logo": "https://logo.clearbit.com/tvpublica.com.ar",
+      "stream": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+      "tipo": "directo",
+      "tvg_id": ""
+    },
+    {
+      "id": 5,
+      "nombre": "snt",
+      "provincia": "Nacional",
+      "grupo": "Patagonia",
+      "logo": "https://logo.clearbit.com/canal7chubut.com.ar",
+      "stream": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
+      "tipo": "directo",
+      "tvg_id": "Canal7Chubut.ar"
+    },
+    {
+      "id": 6,
+      "nombre": "Simpson",
+      "provincia": "Nacional",
+      "grupo": "24/7",
+      "logo": "https://logo.clearbit.com/encuentro.gob.ar",
+      "stream": "https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv",
+      "tipo": "directo",
+      "tvg_id": "Encuentro.ar"
+    }
+  ]
+}
