@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1, TNT
-http://201.217.246.42:44310/Live/d0c913f7fb4a704a12fc8671bb068abc/local-66.playlist.m3u8
-#EXTINF:-1, ESPN PREMIUM
-http://38.41.8.1:8000/play/a0t7
-#EXTINF:-1, pasiones
-http://nor2live.win:80/livehttpplay?channel_id=23239
-#EXTINF:0,Bein Sports 
+#EXTINF:0,Bein Sports xtra n español
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1, SNT
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
@@ -235,8 +229,8 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 group-title="Animation", Nick Jr
 http://nor2live.win:80/livehttpplay?channel_id=16553
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736225744/1/267/150/0.jpg" group-title="Cine",Todo Novelas Más Pasiones
-https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1, tvg-logo="" group-title="Cine", Pasiones
+http://nor2live.win:80/livehttpplay?channel_id=23239
 #EXTINF:-1 tvg-id="PowerMaxRadioTV.ar@SD" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Music",Power Max Radio TV
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music", Quantica TV
@@ -285,6 +279,8 @@ https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN
 http://201.217.246.42:44310/Live/345be2d828f668ebd831419b28fff674/tn.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736225744/1/267/150/0.jpg" group-title="Cine",Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Animation", Toonami TV
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Animation", Toonsmania TV
