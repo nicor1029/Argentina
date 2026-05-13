@@ -257,8 +257,6 @@ https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m
 https://tvservices.fullhd-streaming.com:3963/live/tvgroupretroxtvlive.m3u8
 #EXTINF:-1 tvg-id="RTN.ar@SD" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="Undefined",RTN (Neuquén)
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1 group-title="General", Solive
-https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", Sony One Novelas
 https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="SicardiTV.ar@SD" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Undefined",Sicardi TV
@@ -275,7 +273,7 @@ https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Undefined",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Telemix
+#EXTINF:-1 tvg-logo="https://imgur.com/qlYSai7.png" group-title="Cine", Telemix
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.ar@SD" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Undefined",Telenord Corrientes
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
