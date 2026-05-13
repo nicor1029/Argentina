@@ -155,7 +155,7 @@ https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
 http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/eltrece.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Animation", EnerGeek FanPop
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
-#EXTINF:-1 tvg-logo="" group-title="Animation", EnerGeek Retro
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png" group-title="Animation", EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine", Ent Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
