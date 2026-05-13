@@ -155,7 +155,7 @@ https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 http://201.217.246.42:44310/Live/345be2d828f668ebd831419b28fff674/local-32.playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", El Palomar
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/27-1.jpg" group-title="Cine", El Palomar
 https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
 #EXTINF:-1 group-title="General", el trece
 http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/eltrece.playlist.m3u8
