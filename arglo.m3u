@@ -117,7 +117,7 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar@SD" tvg-logo="https://i.imgur.com/bXHHtcb.png" group-title="General",Canal Provincial
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News", CARAS TV
+#EXTINF:-1 tvg-logo="https://media.canalnet.tv/2024/05/CYaZv3N-1157x720.jpg" group-title="News", CARAS TV
 https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Animation", Cartoon Network
 http://nor1live.win:80/livehttpplay?channel_id=23045
