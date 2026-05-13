@@ -135,7 +135,7 @@ https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
 https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 #EXTINF:0 tvg-id="CINE HISPANO.ar" tvg-name="CINE HISPANO" CUID="78" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345736/dustkhfhwtbduu0zrl5n.png" group-title="Cine",CINE HISPANO
 https://telco.apk-media.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Animation", Clasico animados
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ef15682060b756ab1bcf928ae9e98e7c4b459e005ad54489ab358f60ffc47001.png" group-title="Animation", Clasico animados
 https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar@SD" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="General", Ciudad Magazine
 http://201.217.246.42:44310/Live/345be2d828f668ebd831419b28fff674/ciudadmagazine.playlist.m3u8
