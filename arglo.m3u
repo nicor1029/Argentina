@@ -117,8 +117,6 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://media.canalnet.tv/2024/05/CYaZv3N-1157x720.jpg" group-title="News", CARAS TV
 https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Animation", Cartoon Network
-http://nor1live.win:80/livehttpplay?channel_id=23045
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/602/409/png-transparent-tom-cat-jerry-mouse-tom-and-jerry-tom-and-jerry-heroes-logo-cartoon.png" group-title="Animation", Cartoon Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="CatamarcaTV.ar@SD" tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="News",Catamarca TV
@@ -143,7 +141,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
 http://201.217.246.42:44310/Live/345be2d828f668ebd831419b28fff674/ciudadmagazine.playlist.m3u8
 #EXTINF:-1 tvg-id="ciudadmagica.ar" tvg-logo="https://grupocity.net.ar/wp-content/uploads/2022/10/captura2.png" group-title="Cine", Ciudad Magica
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/c/c9/Era_city_logo.jpg“ group-title="Animation", CN CITY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/330px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="Animation", CN CITY
 https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 group-title="News", CNN
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
