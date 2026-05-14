@@ -153,7 +153,7 @@ https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/27-1.jpg" group-title="Cine", El Palomar
 https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
-#EXTINF:-1 group-title="General", el trece
+#EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/eltrece.png" group-title="General", el trece
 http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/eltrece.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Animation", EnerGeek FanPop
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
@@ -267,7 +267,7 @@ https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", TeleClasica
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
-#EXTINF:-1 group-title="General", Telefe
+#EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/telefe.png" group-title="General", Telefe
 http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Undefined",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
