@@ -197,13 +197,13 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Locomotion.ar@SD" tvg-logo="https://ragnarokargumental3.wordpress.com/wp-content/uploads/2016/10/locomotion_by_minino.png" group-title="Animation",Locomotion
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General", Love Nature
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89902ad1c93745ba04306321089fd39d.webp" group-title="General", Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicKids.ar@SD" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1 tvg-id="MasFM.ar@SD" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Music",Más FM 95.9
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Animation", Max Anime
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Animation", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.fabulosaplay.online/logos_canales/MEMORIAS_TONS.jpg" group-title="Animation", MemoriaToons
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
@@ -223,15 +223,13 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="General",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music", New Kpop
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6_.jpg" group-title="Music", New Kpop
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="General",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
-#EXTINF:-1 group-title="Animation", Nick Jr
-http://nor2live.win:80/livehttpplay?channel_id=16553
-#EXTINF:-1 tvg-logo="" group-title="Cine", Pasiones
+#EXTINF:-1 tvg-logo="https://tvpasiones.com/wp-content/uploads/sites/3/2025/04/Logo_PASIONES_light.png" group-title="Cine", Pasiones
 http://nor2live.win:80/livehttpplay?channel_id=23239
 #EXTINF:-1 tvg-id="PowerMaxRadioTV.ar@SD" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Music",Power Max Radio TV
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
