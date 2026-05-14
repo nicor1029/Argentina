@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, VER
-https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=1
 #EXTINF:-1, TV MIGRANTE
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 #EXTINF:-1, M+ LaLiga
@@ -207,6 +205,8 @@ https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Animation", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.fabulosaplay.online/logos_canales/MEMORIAS_TONS.jpg" group-title="Animation", MemoriaToons
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-id="MetroTV.ar@SD" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine",Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music", Milennio TV
