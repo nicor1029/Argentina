@@ -5,8 +5,6 @@ https://canchatv.online/embedslatam/?canal=nickjr&target=3&raw=1
 https://canchatv.online/embedslatam/?canal=movistarlaliga&target=3&raw=1
 #EXTINF:0,Bein Sports xtra n español
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1, SNT
-https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/389/717/png-transparent-the-simpsons-bart-simpson-marge-simpson-logo-simpsons-television-heroes-text.png" group-title="24/7", Simpson 24/7
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/771/352/png-transparent-the-simpsons-characters-illustration-homer-simpson-marge-simpson-maggie-simpson-lisa-simpson-bart-simpson-the-simpsons-text-cartoon-fictional-character.png" group-title="24/7", Simpson 24/7 2
@@ -251,6 +249,8 @@ https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m
 https://tvservices.fullhd-streaming.com:3963/live/tvgroupretroxtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BC0Ii7i.jpg" group-title="Animation", Seo Kids
 https://seo.tv.bo/live.php?ch=kids_sd
+#EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/paraguay/snt.png" group-title="General", SNT
+https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/sony-canal-novelas-us.png" group-title="Cine", Sony One Novelas
 https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="SicardiTV.ar@SD" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Undefined",Sicardi TV
