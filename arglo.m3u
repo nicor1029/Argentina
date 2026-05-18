@@ -263,7 +263,7 @@ https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 #EXTINF:-1 tvg-id="Telecinco.ar@SD" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Cine",TeleCinco Trelew
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", TeleClasica
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/canal-telecalsica.jpg" group-title="Cine", TeleClasica
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/telefe.png" group-title="General", Telefe
 http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/telefe.playlist.m3u8
