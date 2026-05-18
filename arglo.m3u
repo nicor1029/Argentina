@@ -181,7 +181,7 @@ https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208268.png" group-title="Music", Kpop TV Play
 https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-#EXTINF:-1 group-title="General", Las Estrellas
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98499_dark_360w_270h.png" group-title="General", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="Cine", Lamil35 TV
 https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
