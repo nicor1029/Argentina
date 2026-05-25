@@ -269,7 +269,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.ar@SD" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Undefined",Telenord Corrientes
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TIVTelevision.ar@SD",TIV Television (720p)
+#EXTINF:-1 tvg-logo="https://imgur.com/gsgXGEj.png" tvg-id="TIVTelevision.ar@SD",TIV Television (720p)
 https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN
 http://201.217.246.42:44310/Live/345be2d828f668ebd831419b28fff674/tn.playlist.m3u8
