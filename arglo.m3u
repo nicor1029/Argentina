@@ -240,7 +240,7 @@ https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m
 #EXTINF:-1 tvg-logo="https://www.fabulosaplay.online/logos_canales/retrox.png" group-title="Cine", Retrox tv
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.fabulosaplay.online/logos_canales/retro%20x%20plus.png" group-title="Cine", Retroxplus TV
-https://rtv.fullhd-streaming.com:19360/retroxplustv/retroxplustv.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BC0Ii7i.jpg" group-title="Animation", Seo Kids
 https://seo.tv.bo/live.php?ch=kids_sd
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/paraguay/snt.png" group-title="General", SNT
