@@ -261,6 +261,8 @@ https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/canal-telecalsica.jpg" group-title="Cine", TeleClasica
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine", Telecolor
+https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/telefe.png" group-title="General", Telefe
 http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Undefined",Telemax
