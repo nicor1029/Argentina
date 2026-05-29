@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, TELEFUTURO
+#EXTINF:-1 tvg-logo="" group-title="Cine", TELEFUTURO
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/389/717/png-transparent-the-simpsons-bart-simpson-marge-simpson-logo-simpsons-television-heroes-text.png" group-title="24/7", Simpson 24/7
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
@@ -256,7 +256,7 @@ https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="SicardiTV.ar@SD" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Undefined",Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-id="Canal.Star.Channel.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Cine",Star Channel
-http://45.5.151.147:8000/play/a018/index.m3u8
+http://45.170.130.224:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://stcchaco.com/wp-content/uploads/2025/07/logo-stc.png" group-title="Cine", STC Chaco
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1 tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="News", T5 Satelital
@@ -275,7 +275,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.ar@SD" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Undefined",Telenord Corrientes
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gsgXGEj.png" tvg-id="TIVTelevision.ar@SD",TIV Television
+#EXTINF:-1 tvg-logo="https://imgur.com/gsgXGEj.png" tvg-id="TIVTelevision.ar@SD" group-title="Cine", TIV Television
 https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN
 http://201.217.246.42:44310/Live/345be2d828f668ebd831419b28fff674/tn.playlist.m3u8
