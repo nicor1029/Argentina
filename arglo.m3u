@@ -277,6 +277,8 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.ar@SD" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Undefined",Telenord Corrientes
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telesol-TL5-en-vivo-Online.png" group-title="News", TeleSol
+https://cdn1.tvlin.net/open/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gsgXGEj.png" tvg-id="TIVTelevision.ar@SD" group-title="Cine", TIV Television
 https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a49294db31ae4263e6191f5e5900e3da.webp" group-title="Cine",Todo Novelas
