@@ -203,19 +203,19 @@ https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Animation", Max Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Memoria Classic
+#EXTINF:-1 tvg-logo="" group-title="Cine", Memorias Classic
 https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Memoria corazón 
+#EXTINF:-1 tvg-logo="" group-title="Cine", Memorias corazón 
 https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Memoria Film
+#EXTINF:-1 tvg-logo="" group-title="Cine", Memorias Film
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Pop latino
+#EXTINF:-1 tvg-logo="" group-title="Cine", Memorias Contacto Latino
 https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", Memorias series
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Memoria toons
+#EXTINF:-1 tvg-logo="" group-title="Cine", Memorias toons
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Memoria tropical
+#EXTINF:-1 tvg-logo="" group-title="Cine", Memorias tropical
 https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 #EXTINF:-1 tvg-logo="https://www.cadenametro.com.ar/storage/multimedios/April2025/wLfqZReeQRImBGe1wfBJ.jpeg" tvg-id="MetroTV.ar@SD" group-title="Cine", Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
