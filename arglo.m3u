@@ -5,6 +5,8 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/506/211/png-transparent-the-simpsons-bart-simpson-lisa-simpson-homer-simpson-mr-burns-marge-simpson-the-simpsons-movie-food-springfield-text.png" group-title="24/7", Simpson 24/7 3
 http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/online-24-7.playlist.m3u8
+#EXTINF:-1 group-title="24/7", Simpson
+http://138.118.213.242:85/Live/ed8c8b5970e2179091fa605853b6ccc7/online-24-7.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/789/635/png-transparent-homer-simpson-marge-simpson-bart-simpson-television-show-los-simpsons-television-text-cartoon.png" group-title="24/7", Simpson 24/7 4
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes
