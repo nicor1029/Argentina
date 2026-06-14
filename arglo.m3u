@@ -4,8 +4,6 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/771/352/png-transparent-the-simpsons-characters-illustration-homer-simpson-marge-simpson-maggie-simpson-lisa-simpson-bart-simpson-the-simpsons-text-cartoon-fictional-character.png" group-title="24/7", Simpson 24/7 2
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/506/211/png-transparent-the-simpsons-bart-simpson-lisa-simpson-homer-simpson-mr-burns-marge-simpson-the-simpsons-movie-food-springfield-text.png" group-title="24/7", Simpson 24/7 3
-http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/online-24-7.playlist.m3u8
-#EXTINF:-1 group-title="24/7", Simpson
 http://138.118.213.242:85/Live/ed8c8b5970e2179091fa605853b6ccc7/online-24-7.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/789/635/png-transparent-homer-simpson-marge-simpson-bart-simpson-television-show-los-simpsons-television-text-cartoon.png" group-title="24/7", Simpson 24/7 4
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
@@ -291,6 +289,8 @@ http://190.7.19.197:232/play/a05w/index.m3u8
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1 tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="News", T5 Satelital
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
+#EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2020/02/TDC-online-logo-nuevo.png" group-title="Cine", TDC
+
 #EXTINF:-1 tvg-id="Telecinco.ar@SD" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Cine",TeleCinco Trelew
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/canal-telecalsica.jpg" group-title="Cine", TeleClasica
