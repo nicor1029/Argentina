@@ -109,6 +109,8 @@ https://streamconex.com:19360/puan/puan.m3u8
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1 tvg-id="CanalE.ar@SD" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="News",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png" group-title="Religioso", Canal Luz +
+https://g4.proy-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="CanalOrbe21.ar@SD" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religioso",Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Cine", Canal Pulpo
@@ -207,20 +209,6 @@ https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Animation", Max Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-CLASSIC-OK-png-540x304-1.png" group-title="Cine", Memorias Classic
-https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2025/04/logo-memorias-corazon-1.png" group-title="Cine", Memorias corazón 
-https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-FILM-png-.png" group-title="Cine", Memorias Film
-https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Memorias Contacto Latino
-https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-SERIES-png-.png" group-title="Cine", Memorias series
-https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-TOONS-png-.png" group-title="Cine", Memorias toons
-https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
-#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-TROPICAL-png-.png" group-title="Cine", Memorias tropical
-https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 #EXTINF:-1 tvg-logo="https://www.cadenametro.com.ar/storage/multimedios/April2025/wLfqZReeQRImBGe1wfBJ.jpeg" tvg-id="MetroTV.ar@SD" group-title="Cine", Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-id="MetroTV.ar@SD" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Music",Metro TV Tucumán
