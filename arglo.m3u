@@ -45,7 +45,7 @@ https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal3.cespalarroyito.coop/img/canal%203%20blanco.png" group-title="Cine", Canal 3 Blanco
 https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8?hls_ctx=8o1407tb
-#EXTINF:-1 tvg-logo="https://agenfor.com.ar/wp-content/uploads/2023/06/Logo-Blanco.png" group-title="Cine" Canal 3 Formosa Agenfor
+#EXTINF:-1 tvg-logo="https://agenfor.com.ar/wp-content/uploads/2023/06/Logo-Blanco.png" group-title="Cine", Canal 3 Formosa Agenfor
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3LaPampa.ar@SD" tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Undefined",Canal 3 La Pampa
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
