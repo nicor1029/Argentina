@@ -149,10 +149,6 @@ http://45.238.54.249:8000/play/a079/index.m3u8
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Music",Cumbia Mix
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", CVision
-https://stream.cvision.live/cvision_stream.m3u8
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/229.png" group-title="Cine", Discovery H&H
-http://190.7.19.197:232/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="News", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/27-1.jpg" group-title="Cine", El Palomar
@@ -266,15 +262,13 @@ https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BC0Ii7i.jpg" group-title="Animation", Seo Kids
 https://seo.tv.bo/live.php?ch=kids_sd
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/paraguay/snt.png" group-title="General", SNT
-https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
+https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/somos-uno.jpg" group-title="Undefined",Somos 1 uno
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/sony-canal-novelas-us.png" group-title="Cine", Sony One Novelas
 https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="SicardiTV.ar@SD" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Undefined",Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1 tvg-id="Canal.Star.Channel.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Cine",Star Channel
-http://190.7.19.197:232/play/a05w/index.m3u8
 #EXTINF:-1 tvg-logo="https://stcchaco.com/wp-content/uploads/2025/07/logo-stc.png" group-title="Cine", STC Chaco
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1 tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="News", T5 Satelital
