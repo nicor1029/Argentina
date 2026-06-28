@@ -109,6 +109,8 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1 tvg-id="Canal79SantaClaradelMar.ar@SD" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Undefined",Canal 79 Santa Clara del Mar
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Canal_%28%C3%A1%29_2019.png" group-title="News", Canal a
+https://edgectc.com/CANAL_A/index.m3u8
 #EXTINF:-1 tvg-id="CanalE.ar@SD" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="News",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png" group-title="Religioso", Canal Luz +
