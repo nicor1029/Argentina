@@ -134,13 +134,7 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/250px-CGTN_Espanol.png" group-title="News", CGTN
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" group-title="Cine", CincoTV Tigre
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:0 tvg-id="CINE PREMIUM.ar" tvg-name="CINE PREMIUM" CUID="76" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345688/s1gwqr9b7ipbxy4jm2cp.png" group-title="Cine",CINE PREMIUM
-https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
-#EXTINF:0 tvg-id="CINE FAMILIAR.ar" tvg-name="CINE FAMILIAR" CUID="77" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345713/ikagari0fl7tttbrotfb.png" group-title="Cine",CINE FAMILIAR
-https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
-#EXTINF:0 tvg-id="CINE HISPANO.ar" tvg-name="CINE HISPANO" CUID="78" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345736/dustkhfhwtbduu0zrl5n.png" group-title="Cine",CINE HISPANO
-https://telco.apk-media.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
+#https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ef15682060b756ab1bcf928ae9e98e7c4b459e005ad54489ab358f60ffc47001.png" group-title="Animation", Clasico animados
 https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar@SD" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Cine", Ciudad Magazine
