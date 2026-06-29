@@ -17,13 +17,15 @@ https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 https://g1.mc-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="General",Aire de Santa Fe
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religioso", Aliento Vision
+https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alterna.ar/img/logoalternatv.png" group-title="Music", AlternaTV
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/america.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="General",America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png" group-title="Animation", Anime2
 https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Animation", Animax1DS
+#EXTINF:-1 tvg-logo="" group-title="Animation", AnimaX1DS
 https://live-evg8.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8?uid=3600969
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="Animation",AnimeStation
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
