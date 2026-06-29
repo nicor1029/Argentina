@@ -265,8 +265,8 @@ https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.fabulosaplay.online/logos_canales/retro%20x%20plus.png" group-title="Cine", Retroxplus TV
 https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BC0Ii7i.jpg" group-title="Animation", Seo Kids
-https://seo.tv.bo/live.php?ch=kids_sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="News", RT TV
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/paraguay/snt.png" group-title="General", SNT
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/somos-uno.jpg" group-title="Undefined",Somos 1 uno
