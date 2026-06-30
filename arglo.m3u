@@ -113,6 +113,8 @@ https://streamconex.com:19360/puan/puan.m3u8
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Canal_%28%C3%A1%29_2019.png" group-title="News", Canal a
 https://edgectc.com/CANAL_A/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine", Canal Claro
+http://45.238.54.249:8000/play/a079/index.m3u8
 #EXTINF:-1 tvg-id="CanalE.ar@SD" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="News",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png" group-title="Religioso", Canal Luz +
@@ -135,8 +137,6 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/250px-CGTN_Espanol.png" group-title="News", CGTN
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" group-title="Cine", CincoTV Tigre
-#https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ef15682060b756ab1bcf928ae9e98e7c4b459e005ad54489ab358f60ffc47001.png" group-title="Animation", Clasico animados
 https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar@SD" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Cine", Ciudad Magazine
@@ -145,8 +145,6 @@ http://190.7.19.197:232/play/a04l/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/330px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="Animation", CN CITY
 https://envivo.cncity.live/hls/envivo.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Canal Claro
-http://45.238.54.249:8000/play/a079/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/507/10/png-clipart-cnn-logo-graphics-hand-painted-decoration-television-text.png" group-title="News", CNN
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Music",Cumbia Mix
@@ -273,6 +271,8 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/somos-uno.jpg" group-title="Undefined",Somos 1 uno
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sony Movie
+Sony_Movies_Latin_America_(720p),https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/sony-canal-novelas-us.png" group-title="Cine", Sony One Novelas
 https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="SicardiTV.ar@SD" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Undefined",Sicardi TV
