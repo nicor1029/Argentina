@@ -149,8 +149,6 @@ https://envivo.cncity.live/hls/envivo.m3u8
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Music",Cumbia Mix
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deportes", DeporTV
-https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text.png" group-title="News", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/27-1.jpg" group-title="Cine", El Palomar
@@ -283,9 +281,7 @@ https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 #EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2020/02/TDC-online-logo-nuevo.png" group-title="Cine", TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General", TEC
-https://edgectc.com/TEC_HD/index.m3u8
-#EXTINF:-1 tvg-id="Telecinco.ar@SD" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Cine",TeleCinco Trelew
+EXTINF:-1 tvg-id="Telecinco.ar@SD" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Cine",TeleCinco Trelew
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/canal-telecalsica.jpg" group-title="Cine", TeleClasica
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
