@@ -113,7 +113,7 @@ https://streamconex.com:19360/puan/puan.m3u8
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Canal_%28%C3%A1%29_2019.png" group-title="News", Canal a
 https://edgectc.com/CANAL_A/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Canal Claro
+#EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/1/2/1219779.png" group-title="Cine", Canal Claro
 http://45.238.54.249:8000/play/a079/index.m3u8
 #EXTINF:-1 tvg-id="CanalE.ar@SD" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="News",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
