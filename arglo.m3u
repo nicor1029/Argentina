@@ -173,24 +173,16 @@ https://panel.host-live.com:19360/8118/8118.m3u8
 https://play.folkloretv.pe/StreamSD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Terror
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16194
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV 
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16196
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV 
+#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Estelar
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16197
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV 
+#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Drama
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16198
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV 
+#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Clasico
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16199
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV 
+#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Accion
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16200
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV 
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16201
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV 
+#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Sureño
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16202
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV 
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16203
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV 
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16204
 #EXTINF:-1 tvg-logo="https://mbanetworks.tv/wp-content/uploads/2025/09/FAST_CHANNELS_FreeTVFamilia_logo_2000x2000.webp" group-title="Cine", FREE TV familia
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16196
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/elgaragetv.png" group-title="Deportes", Garage TV
