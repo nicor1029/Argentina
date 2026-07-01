@@ -247,7 +247,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6_.jpg" group-title="Music", New Kpop
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", NEOX TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/br0VwRDJ/images.jpg" group-title="Cine", NEOX TV
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 #EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
