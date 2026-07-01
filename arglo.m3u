@@ -271,7 +271,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/somos-uno.jpg" group-title="Undefined",Somos 1 uno
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Sony Movie
+#EXTINF:-1 tvg-logo="" group-title="Cine", Sony Movie
 Sony_Movies_Latin_America_(720p),https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/sony-canal-novelas-us.png" group-title="Cine", Sony One Novelas
 https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
