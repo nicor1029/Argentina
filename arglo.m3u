@@ -171,27 +171,27 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 https://panel.host-live.com:19360/8118/8118.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k1bZHb5.png" group-title="Cine", Folkloretv
 https://play.folkloretv.pe/StreamSD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Asia
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/asia.jpg" group-title="Cine", FREE TV Asia
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16464
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Banda
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/banda.jpg" group-title="Cine", FREE TV Banda
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16465
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Live
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/live.jpg" group-title="Cine", FREE TV Live
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16472
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Hits
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/hits.jpg" group-title="Cine", FREE TV Hits
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16473
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Terror
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/terror.jpg" group-title="Cine", FREE TV Terror
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16477
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Estelar
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/estelar.jpg" group-title="Cine", FREE TV Estelar
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16470
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Drama
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/drama.jpg" group-title="Cine", FREE TV Drama
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16469
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Clasico
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/clasico.jpg" group-title="Cine", FREE TV Clasico
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16468
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Accion
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion.jpg" group-title="Cine", FREE TV Accion
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16466
-#EXTINF:-1 tvg-logo="" group-title="Cine", FREE TV Sureño
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/sureno.jpg" group-title="Cine", FREE TV Sureño
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16476
-#EXTINF:-1 tvg-logo="https://mbanetworks.tv/wp-content/uploads/2025/09/FAST_CHANNELS_FreeTVFamilia_logo_2000x2000.webp" group-title="Cine", FREE TV familia
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/familia.jpg" group-title="Cine", FREE TV familia
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16471
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/elgaragetv.png" group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
