@@ -357,6 +357,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/vidaalmaximo11/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music", Vorterix
 https://g3.proy-slo.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="https://woxtv.net/wp-content/uploads/2026/06/cropped-wox-3d-logo-cabecera-300x127.png" group-title="Music", Wox TV
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Xama-Senal-UNSJ-en-vivo-Online.png" group-title="Cine", XAMA TV
 https://srs.unsj.edu.ar/live/xama/xama.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/szDM09P.png" group-title="Music", XITE metal & rock
