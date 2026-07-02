@@ -323,8 +323,6 @@ https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telesol-TL5-en-vivo-Online.png" group-title="News", TeleSol
 https://cdn1.tvlin.net/open/telesol/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gsgXGEj.png" tvg-id="TIVTelevision.ar@SD" group-title="Cine", TIV Television
-https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a49294db31ae4263e6191f5e5900e3da.webp" group-title="Cine",Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736225744/1/267/150/0.jpg" group-title="Cine",Todo Novelas Más Pasiones
