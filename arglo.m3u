@@ -171,28 +171,28 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 https://panel.host-live.com:19360/8118/8118.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k1bZHb5.png" group-title="Cine", Folkloretv
 https://play.folkloretv.pe/StreamSD/index.m3u8
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion.jpg" group-title="Cine", FREE TV Accion
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16466
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/asia.jpg" group-title="Cine", FREE TV Asia
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16464
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/banda.jpg" group-title="Cine", FREE TV Banda
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16465
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/live.jpg" group-title="Cine", FREE TV Live
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16472
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/hits.jpg" group-title="Cine", FREE TV Hits
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16473
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/terror.jpg" group-title="Cine", FREE TV Terror
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16477
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/estelar.jpg" group-title="Cine", FREE TV Estelar
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16470
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/drama.jpg" group-title="Cine", FREE TV Drama
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16469
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/clasico.jpg" group-title="Cine", FREE TV Clasico
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16468
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion.jpg" group-title="Cine", FREE TV Accion
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16466
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/sureno.jpg" group-title="Cine", FREE TV Sureño
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16476
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/drama.jpg" group-title="Cine", FREE TV Drama
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16469
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/estelar.jpg" group-title="Cine", FREE TV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16470
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/familia.jpg" group-title="Cine", FREE TV familia
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16471
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/hits.jpg" group-title="Cine", FREE TV Hits
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16473
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/live.jpg" group-title="Cine", FREE TV Live
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16472
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/sureno.jpg" group-title="Cine", FREE TV Sureño
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16476
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/terror.jpg" group-title="Cine", FREE TV Terror
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16477
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/elgaragetv.png" group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="GenTV.ar@SD" tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="Cine",Gen TV
@@ -253,12 +253,12 @@ https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="General",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71621_dark_360w_270h.png" group-title="Cine", Pasiones
+http://181.78.197.59:8000/play/a088/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Patagonia-TV.png" group-title="Cine", Patagonia Tv
 https://videohd.live:19360/8100/8100.m3u8
 #EXTINF:-1 tvg-id="PowerMaxRadioTV.ar@SD" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Music",Power Max Radio TV
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71621_dark_360w_270h.png" group-title="Cine", Pasiones
-http://217.26.190.76:8888/play/a0ic/index.m3u8
 #EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg" group-title="Music", Quantica TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:-1 tvg-id="RadioConexionWebTV.ar@SD" tvg-logo="https://i.imgur.com/pXS38zo.png" group-title="Music",Radio Conexion Web TV
@@ -275,8 +275,6 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1 tvg-id="Radiocanal.ar@SD" tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png" group-title="General",Radiocanal San Francisco
 http://204.199.3.2/.m3u8
-#EXTINF:-1 tvg-id="RetroCartoon.ar@SD" group-title="Animation", RetroCartoon
-https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMagico.ar@SD" group-title="Animation", Retro Mágico
 https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.fabulosaplay.online/logos_canales/retrox.png" group-title="Cine", Retrox tv
