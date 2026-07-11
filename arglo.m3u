@@ -306,7 +306,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/12/canal-telecreativa-en-vivo.jpg" group-title="Cine", TeleCreativa
 https://panel.host-live.com:19360/8012/8012.m3u8
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/telefe.png" group-title="General", Telefe
-http://138.118.213.242:85/Live/ed8c8b5970e2179091fa605853b6ccc7/telefe.playlist.m3u8
+http://10.1.95.10/Live/70b474b4a2c7a0ee74a205e2780f21fd/telefe.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telejunin.com/static/images/logo/teleJunin.png" group-title="General", TeleJunin
 https://videostream.shockmedia.com.ar/hls/telejunin/telejunin.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Undefined",Telemax
