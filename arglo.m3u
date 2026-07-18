@@ -237,8 +237,6 @@ https://s.emisoras.tv:8081/metrotv/tracks-v1a1/mono.m3u8
 https://stmvideo6.livecastv.com/milennio/milennio/playlist.m3u8
 #EXTINF:-1 tvg-id="MisionesCuatro.ar@SD" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="General",Misiones Cuatro
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://multivisioncable.com.ar/imagenes/logo.jpg" group-title="Cine", Multivisión
-https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="News",Multivision Federal
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-id="NEOTV.ar@SD" tvg-logo="https://5900.tv/storage/thumbnails/DJ2AUPu0fFDIjRaqeleA0XD4TbaTCLPh5PpYEd4e.jpg" group-title="Cine",NEO TV
@@ -280,7 +278,7 @@ https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m
 #EXTINF:-1 tvg-logo="https://www.fabulosaplay.online/logos_canales/retrox.png" group-title="Cine", Retrox tv
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.fabulosaplay.online/logos_canales/retro%20x%20plus.png" group-title="Cine", Retroxplus TV
-https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/erinaca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="News", RT TV
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/paraguay/snt.png" group-title="General", SNT
