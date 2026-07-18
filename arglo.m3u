@@ -238,7 +238,7 @@ https://stmvideo6.livecastv.com/milennio/milennio/playlist.m3u8
 #EXTINF:-1 tvg-id="MisionesCuatro.ar@SD" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="General",Misiones Cuatro
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://multivisioncable.com.ar/imagenes/logo.jpg" group-title="Cine", Multivisión
-https://videostream.shockmedia.com.ar/hls/multivisioncable/multivisioncable.m3u8
+https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="News",Multivision Federal
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-id="NEOTV.ar@SD" tvg-logo="https://5900.tv/storage/thumbnails/DJ2AUPu0fFDIjRaqeleA0XD4TbaTCLPh5PpYEd4e.jpg" group-title="Cine",NEO TV
