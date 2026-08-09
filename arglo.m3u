@@ -350,7 +350,7 @@ https://g3.proy-slo.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all
 #EXTINF:-1 tvg-logo="https://woxtv.net/wp-content/uploads/2026/06/cropped-wox-3d-logo-cabecera-300x127.png" group-title="Music", Wox TV
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Xama-Senal-UNSJ-en-vivo-Online.png" group-title="Cine", XAMA TV
-https://srs.unsj.edu.ar/live/xama/xama.m3u8
+https://srs.unsj.edu.ar/live/xama/xama.flv
 #EXTINF:-1 tvg-logo="https://imgur.com/szDM09P.png" group-title="Music", XITE metal & rock
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/35.jpg" group-title="Ciencias", Xphere Aventure
