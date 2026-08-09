@@ -14,7 +14,7 @@ https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 tvg-id="24/7CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News",A24
-https://g1.mc-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8?sense=true
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="General",Aire de Santa Fe
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png/v1/fit/w_2500,h_1330,al_c/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png" group-title="Religioso", Aliento Vision
