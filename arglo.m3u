@@ -23,10 +23,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/330px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="Animation", CN CITY
 https://envivo.cncity.live/hls/envivo.m3u8
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Animation", EnerGeek FanPop
+#EXTINF:-1 tvg-logo="" group-title="Animation", EnerGeek
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=W3bEnerG33k2026
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png" group-title="Animation", EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Animation", EnerGeek FanPop
+https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=W3bEnerG33k2026
+#EXTINF:-1 tvg-logo="" group-title="Animation", EnerGeek Radio
+https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine", Ent Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine", Ent Family
