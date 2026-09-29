@@ -13,9 +13,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8?uid=3600969
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="Animation",AnimeStation
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="bitMe.mx@SD",bitMe (1080p)
+#EXTINF:-1 tvg-id="bitMe.mx@SD" group-title="Animation",bitMe (1080p)
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
-#EXTINF:-1 tvg-id="bitMeLatinAmerica.mx@SD",bitMe Latin America (1080p)
+#EXTINF:-1 tvg-id="bitMeLatinAmerica.mx@SD" group-title="Animation",bitMe Latin America (1080p)
 https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/602/409/png-transparent-tom-cat-jerry-mouse-tom-and-jerry-tom-and-jerry-heroes-logo-cartoon.png" group-title="Animation", Cartoon Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
