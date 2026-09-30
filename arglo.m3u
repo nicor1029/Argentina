@@ -67,6 +67,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/chunks.m3u8
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Animation", Max Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Animation", Pluto TV Anime
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 #EXTINF:-1 tvg-id="RetroMagico.ar@SD" group-title="Animation", Retro Mágico
 https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 #EXTINF:-1 group-title="Cine", Popcorn central
