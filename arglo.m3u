@@ -73,6 +73,24 @@ https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 #EXTINF:-1 group-title="Cine", Popcorn central
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16571
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png/v1/fit/w_2500,h_1330,al_c/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png" group-title="Religioso", Aliento Vision
+https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal13Jujuy.ar@SD" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Religioso",Canal 13 Jujuy TV
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+#EXTINF:-1 tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png" group-title="Religioso", Canal Luz +
+https://g4.proy-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="CanalOrbe21.ar@SD" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religioso",Canal Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioSublimeGraciaTV.ar@SD" tvg-logo="https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png" group-title="Religioso",Radio Sublime Gracia TV
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaArgentina.ar@SD" tvg-logo="https://i.imgur.com/jars0mP.png" group-title="Religioso",TV Maná Argentina
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UnifeTV.ar@SD" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religioso",Unife TV
+https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="UnifeTV.ar@SD" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religioso",Unife TV Arg
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3071707_ico.png" group-title="Religioso", Vida al Maximo tv
+https://live20.bozztv.com/akamaissh101/ssh101/vidaalmaximo11/playlist.m3u8
 #EXTINF:-1 group-title="Radio", Radio Disney
 https://27373.live.streamtheworld.com:443/DISNEY_ARG_BA_ADP
 #EXTINF:-1 group-title="Radio", Rock & Pop
