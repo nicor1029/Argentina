@@ -75,10 +75,8 @@ https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16571
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png/v1/fit/w_2500,h_1330,al_c/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png" group-title="Religioso", Aliento Vision
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13Jujuy.ar@SD" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Religioso",Canal 13 Jujuy TV
+#EXTINF:-1 tvg-id="Canal13Jujuy.ar@SD" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Religioso",Canal 13 Jujuy TV Canal Luz +
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-#EXTINF:-1 tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png" group-title="Religioso", Canal Luz +
-https://g4.proy-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="CanalOrbe21.ar@SD" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religioso",Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSublimeGraciaTV.ar@SD" tvg-logo="https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png" group-title="Religioso",Radio Sublime Gracia TV
