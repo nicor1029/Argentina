@@ -1,0 +1,22 @@
+name: Actualizar lista
+on:
+  schedule:
+    - cron: "0 6 * * *"   # todos los días, 3:00 AM hora de Argentina
+  workflow_dispatch:       # permite ejecutarlo a mano
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python unir_m3u.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add mi_lista.m3u
+          git diff --cached --quiet || (git commit -m "Actualizar lista" && git push)
